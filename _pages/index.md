@@ -1,8 +1,8 @@
 ---
-Type : Index
-Date of Entry : 01-01-2023
-Notes : 
-Remarks :  
+layout: page
+title: Home
+id: home
+permalink: /
 ---
  tags :  #index #SC 
  
