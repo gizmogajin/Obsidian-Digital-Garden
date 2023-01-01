@@ -12,10 +12,10 @@ Related :
 ---
 
 - ## Biology
-	- ![[Biology Index]]
+	- [[Biology Index]]
 - ## Chemistry
-	- ![[Chemistry Index]]
+	- [[Chemistry Index]]
 - ## Mathematics 
-	- ![[~~~aswin/School SC/Class 11/{Mathematics}/Mathematics Index]]
+	- [[~~~aswin/School SC/Class 11/{Mathematics}/Mathematics Index]]
 - ## Physics
-	- ![[Physics Index]]
+	- [[Physics Index]]
