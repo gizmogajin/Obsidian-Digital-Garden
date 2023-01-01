@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"9818beff05ac6e53","x":-295,"y":245,"width":562,"height":212,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/Mesomeric OR Resonance Effect.md"},
+		{"id":"598a908dbbaf564b","x":-2334,"y":-286,"width":399,"height":338,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/+M OR +R Effect.md"},
+		{"id":"c8bba7b7d2bebdd6","x":-2334,"y":344,"width":399,"height":342,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/-M OR -R Effect.md"},
+		{"id":"1387c480168c5254","x":-1777,"y":7802,"width":432,"height":256,"type":"text","text":"# + I"},
+		{"id":"c1ef58c0fe8fe0f0","x":-1377,"y":3081,"width":250,"height":94,"color":"1","type":"text","text":"- M - Effect does not operate on meta position"},
+		{"id":"f0cf8d4816f04751","x":-1345,"y":7242,"width":456,"height":246,"type":"text","text":"# Inductive Effect"},
+		{"id":"47c1851c5bc45f8a","x":-268,"y":3447,"width":533,"height":60,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/Applications of Mesomeric Effect.md"},
+		{"id":"98b79373d4e147a3","x":-1000,"y":2869,"width":595,"height":280,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/To compare the acidic strength of aromatic carboxylic acids or phenols.md"},
+		{"id":"a0340fbe1546c790","x":-862,"y":7802,"width":388,"height":256,"type":"text","text":"# - I\n\n- Electron withdrawing group"},
+		{"id":"02475c129d8d0015","x":-1000,"y":3797,"width":453,"height":246,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/Ortho Effect.md"},
+		{"id":"0a95c8876e0f74bf","x":578,"y":3685,"width":633,"height":1021,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/Effects on Organic Compound.md"},
+		{"id":"ea4db900e601097f","x":684,"y":3039,"width":421,"height":349,"type":"file","file":"~~~aswin/School SC/Class 11/{Chemistry}/{Chemistry}{Organic Chemistry}/Hydrogen bond may increase or decrease acidic strength in  O-substituted benzoic acid OR phenol.md"}
+	],
+	"edges":[
+		{"id":"9bd96432df03d390","fromNode":"9818beff05ac6e53","fromSide":"left","toNode":"598a908dbbaf564b","toSide":"right"},
+		{"id":"c2076c708d662f30","fromNode":"9818beff05ac6e53","fromSide":"left","toNode":"c8bba7b7d2bebdd6","toSide":"right"},
+		{"id":"0ddbd4dc91c48527","fromNode":"9818beff05ac6e53","fromSide":"bottom","toNode":"47c1851c5bc45f8a","toSide":"top"},
+		{"id":"2626fedd8bdfc979","fromNode":"47c1851c5bc45f8a","fromSide":"left","toNode":"98b79373d4e147a3","toSide":"right"},
+		{"id":"c3625d6e9b67d1e2","fromNode":"98b79373d4e147a3","fromSide":"left","toNode":"c1ef58c0fe8fe0f0","toSide":"right"},
+		{"id":"830db74a8b63c2fa","fromNode":"47c1851c5bc45f8a","fromSide":"left","toNode":"02475c129d8d0015","toSide":"right"},
+		{"id":"d21855e7a1c681b3","fromNode":"47c1851c5bc45f8a","fromSide":"right","toNode":"ea4db900e601097f","toSide":"left"},
+		{"id":"5b7a0d72e3d32968","fromNode":"47c1851c5bc45f8a","fromSide":"right","toNode":"0a95c8876e0f74bf","toSide":"left"},
+		{"id":"ef6da5ffe69d1b30","fromNode":"f0cf8d4816f04751","fromSide":"bottom","toNode":"1387c480168c5254","toSide":"top"},
+		{"id":"21f22172879ee294","fromNode":"f0cf8d4816f04751","fromSide":"bottom","toNode":"a0340fbe1546c790","toSide":"top"}
+	]
+}

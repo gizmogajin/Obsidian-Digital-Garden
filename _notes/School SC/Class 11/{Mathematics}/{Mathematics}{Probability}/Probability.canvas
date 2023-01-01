@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0d3cac825c819e09","x":-2378,"y":-128,"width":562,"height":201,"type":"text","text":"# Simple Event (Elementary Event)\n\n- Single element events"},
+		{"id":"bd53ad7b449fe069","x":-1566,"y":-128,"width":562,"height":201,"type":"text","text":"# Compund Event\n\n- Multiple element events"},
+		{"id":"c183e6068ab706b7","x":-1816,"y":-300,"width":250,"height":60,"type":"text","text":"# Events"},
+		{"id":"c46e720cadf8afe0","x":-449,"y":266,"width":350,"height":60,"type":"text","text":"# Sample Space\n"},
+		{"id":"061fbc5ed1d8177c","x":-461,"y":400,"width":375,"height":218,"type":"text","text":"# Probability\n\n- Always between 0 and 1\n\t- ie, 0 $\\le$ P $\\le$ 1\n- "},
+		{"id":"dc3a70d68a94d6b1","x":-461,"y":807,"width":375,"height":358,"type":"text","text":"# Mutually Exclusive\n\n-  A $\\cap$ B= $\\phi$ \n- Example\n\t- A = {1, 3 , 5}\n\t- B = {2 , 4 , 6}\n\t- A $\\cap$ B= $\\phi$ "},
+		{"id":"b21623cf5b8d81f4","x":-54,"y":509,"width":250,"height":60,"type":"text","text":"P(A)' = 1 - P(A)"},
+		{"id":"970d5c6c26218fb6","x":-48,"y":807,"width":331,"height":301,"color":"5","type":"text","text":"# Exhaustive\n\n- A $\\cap$ B = S\n- A U B = $\\phi$ \n- Example\n\t- S = {1, 2 , 4 , 6}\n\t- A = {2 , 4, 6}\n\t- B =  {1}"}
+	],
+	"edges":[
+		{"id":"3d135c040005621b","fromNode":"c183e6068ab706b7","fromSide":"bottom","toNode":"0d3cac825c819e09","toSide":"top"},
+		{"id":"45bd4c564fc47ecc","fromNode":"c183e6068ab706b7","fromSide":"bottom","toNode":"bd53ad7b449fe069","toSide":"top"}
+	]
+}

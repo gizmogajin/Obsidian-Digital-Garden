@@ -1,0 +1,4 @@
+- The wall that allows heat to pass
+- Heat transfer is possible
+- Also called conducting [[Walls]] 
+- eg: Metals

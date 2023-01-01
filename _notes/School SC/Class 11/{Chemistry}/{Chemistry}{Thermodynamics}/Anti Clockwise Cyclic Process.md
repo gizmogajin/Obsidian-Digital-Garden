@@ -1,0 +1,3 @@
+- Figure
+	- ![[Pasted image 20221228123659.png]]
+- Work in anticlockwise cycle = +ve

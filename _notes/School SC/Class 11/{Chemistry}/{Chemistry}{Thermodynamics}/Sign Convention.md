@@ -1,0 +1,14 @@
+
+- Heat absorbed by the system = +ve
+- Heat released by the system = -ve
+- Work done by the system = -ve
+- Work done on the system = +ve
+- Graph
+	- ![[Zoom_2IUDku4eTv.png]]
+- Questions
+	- 1
+		- Find delta U, if a system absorbs 15 KJ heat and does 5 KJ of work
+			- q = +15 KJ
+			- w = -5 KJ
+			- $$\Delta u = q + w$$
+			- 15 -5 = 10 KJ

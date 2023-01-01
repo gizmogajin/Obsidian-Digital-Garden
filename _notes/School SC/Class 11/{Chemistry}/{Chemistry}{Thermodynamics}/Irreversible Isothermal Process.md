@@ -1,0 +1,13 @@
+- [[Irreversible Process]] | [[Isothermal Process]]
+-  W = - P$_{external}$$\Delta$V
+	-  W = - P$_{external}$ (V$_{2}$ - V$_{1}$)
+	- According to Ideal gas equation
+		- PV = nRT
+		- V = $\frac{nRT}{P}$
+			- V$_2$ = $\frac{nRT}{P_2}$
+			- V$_1$ = $\frac{nRT}{P_1}$
+		-   W = - P$_{external}$ (V$_{2}$ - V$_{1}$)
+		-   W = - P$_{external}$ ($\frac{nRT}{P_2}$ - $\frac{nRT}{P_1}$) L atom
+			- If P$_{ext}$ is given it is ok
+			- If P$_{ext}$ is not given => P$_{ext}$ = P$_{2}$
+			- P = atm , V = L , R = $\frac{1}{12}$ $\frac{L \ atm}{mol \ . \ K}$ , T = Kelvin

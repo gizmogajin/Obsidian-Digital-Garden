@@ -1,0 +1,1 @@
+The particles surrounding the container of the system

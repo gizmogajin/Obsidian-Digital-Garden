@@ -1,0 +1,4 @@
+- [[Walls]] l that does not allow heat to pass
+- Heat transfer not possible
+- Also called insulalting [[Walls]] 
+- eg: glass, blanket, wool
